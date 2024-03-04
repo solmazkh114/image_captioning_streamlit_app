@@ -1,0 +1,16 @@
+* ignore Data folder
+tools/model_llm/
+
+tools/processor/
+
+tools/vgg_model.h5
+
+tools/image_features.pkl
+
+*.keras
+
+image_captioninig_flickr8.ipynb
+
+__pycache__/
+
+
